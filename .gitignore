@@ -6,7 +6,6 @@ tmp/
 npm-debug.log
 
 # lock files
-package-lock.json
 yarn.lock
 
 # CI
